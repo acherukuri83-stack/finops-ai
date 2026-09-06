@@ -1,0 +1,1 @@
+{"version":1,"projects":{"finops-ui":{"projectType":"application","root":"","sourceRoot":"src","architect":{"build":{"builder":"@angular-devkit/build-angular:application","options":{"browser":"src/main.ts","tsConfig":"tsconfig.app.json","index":"src/index.html"}},"serve":{"builder":"@angular-devkit/build-angular:dev-server","options":{"buildTarget":"finops-ui:build"}}}}}}
